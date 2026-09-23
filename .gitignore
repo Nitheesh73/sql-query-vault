@@ -1,0 +1,13 @@
+# Data files (downloaded locally, not committed)
+data/*.sqlite
+data/*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
