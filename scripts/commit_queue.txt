@@ -1,0 +1,6 @@
+queries/01_top_customers_by_spend.sql queries/02_monthly_sales_trend.sql|Add top customers and monthly sales trend queries
+queries/03_top_selling_genres.sql queries/04_customer_running_total.sql|Add top-selling genres and customer running total queries
+queries/05_repeat_vs_onetime_customers.sql queries/06_employee_sales_performance.sql|Add repeat-customer classification and employee sales ranking queries
+queries/07_track_length_percentile.sql queries/08_customer_purchase_gap.sql|Add track length percentile and customer purchase gap queries
+tests/test_queries.py|Add query validation test script
+README.md|Polish README with query index and reflection
