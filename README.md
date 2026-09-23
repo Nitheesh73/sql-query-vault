@@ -31,3 +31,5 @@ sqlite3 data/Chinook_Sqlite.sqlite ".read queries/01_top_customers.sql"
 ## Progress log
 
 - **Day 1** — repo setup, README, folder structure, data download script.
+
+**Update:** small doc tweak via PR to earn the YOLO achievement (solo repo, no review needed).
